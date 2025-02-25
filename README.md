@@ -73,9 +73,6 @@ Choose an example grid or create your own:
 1. Use an example grid
 2. Create a custom grid
 ...
-Performing flood fill...
-Final Result:
-[Grid output with filled areas]
 ```
 
 ## Future Improvements
