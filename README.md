@@ -32,7 +32,7 @@ Ensure you have Python 3 installed on your system.  It's recommended to use a vi
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone [<repository_url>](https://github.com/imaddde867/BFS-Floodfill.git)
+   git clone https://github.com/imaddde867/BFS-Floodfill.git
    cd BFS-App
    ```
 2. Create and activate a virtual environment:
