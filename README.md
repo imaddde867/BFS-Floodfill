@@ -1,4 +1,7 @@
 # Flood Fill Algorithm Using BFS 🎨
+<p align="center">
+  <img src="https://i0.wp.com/www.techiedelight.com/wp-content/uploads/Flood-Fill.png?resize=504%2C222&ssl=1" alt="Flood Fill Example">
+</p>
 
 This repository demonstrates the **Flood Fill Algorithm** using **Breadth-First Search (BFS)** in Python.  The implementation provides an interactive command-line interface for running the algorithm on example grids or custom grids. 🚀
 
