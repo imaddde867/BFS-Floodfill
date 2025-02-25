@@ -22,11 +22,7 @@ This repository demonstrates the **Flood Fill Algorithm** using **Breadth-First 
 ├── floodfill.py        # BFS flood fill implementation
 ├── main.py             # Main interactive CLI for running the algorithm
 ├── visualizer.py       # Grid visualization module
-├── .gitattributes      # Git attributes configuration
-├── .git/               # Git repository metadata
-├── .vscode/            # VS Code workspace settings
-├── __pycache__/        # Cached Python files
-├── venv/               # Virtual environment (if used)
+
 ```
 
 ## Installation & Setup
